@@ -6,12 +6,12 @@ add_textbox|`5Enjoy Pull Tools Made By `9[`5Discord: `0amouls`9]
 add_spacer|big
 add_label_with_icon|small|`cCommands List|left|5956
 add_spacer|small
-add_label_with_icon|small|`cAuto & Respawn Pull:|left|3682
-add_smalltext|`c/setap `0(Set Auto Pull Tile)
-add_smalltext|`c/autopull `0(Opens Auto Pull Dialog Settings)
-add_smalltext|`c/ap `0(Enable Auto Pull)
-add_smalltext|`c/blacklistall `0(Blacklist All Player In World)
-add_smalltext|`c/add [uid] [label] `0(Blacklist Custom Uid)
-add_smalltext|`c/notify `0(Enables Notify When Pull Player)
-add_smalltext|`c/min [dls] `0(Set Minimal Modal To Pull With DL Currency)
+add_label_with_icon|small|`cAuto & Respawn Pull:|left|3682|left
+add_smalltext|`c/setap `0(Set Auto Pull Tile)|left
+add_smalltext|`c/autopull `0(Opens Auto Pull Dialog Settings)|left
+add_smalltext|`c/ap `0(Enable Auto Pull)|left
+add_smalltext|`c/blacklistall `0(Blacklist All Player In World)|left
+add_smalltext|`c/add [uid] [label] `0(Blacklist Custom Uid)|left
+add_smalltext|`c/notify `0(Enables Notify When Pull Player)|left
+add_smalltext|`c/min [dls] `0(Set Minimal Modal To Pull With DL Currency)|left
 add_quick_exit
