@@ -1,6 +1,10 @@
 set_border_color|110,60,150,255|
 set_bg_color|45,20,80,200|
-add_label_with_icon|big|`eLawvy Pull Premium Script V2.0|left|7968
+add_label_with_icon|big|`eLawvy Pull Premium Script V2.1.1|left|7968
+add_spacer|small
+add_label_with_icon|small|Update:|left|2480
+add_smalltext|`2Optimized `0Auto Pull Delay|left
+add_smalltext|`2Fixed `0Pull Local|left
 add_spacer|small
 add_textbox|`5Enjoy Pull Tools Made By `9[`5Discord: `0amouls`9]|left
 add_spacer|big
